@@ -1,6 +1,6 @@
-# Data Science Boilerplate
+# Data Science Art and facts project
 
-Welcome to the **Data Science Boilerplate**: A modern, production-ready template for data science projects with best practices.
+Welcome to the **Data Science Art And Facts project**: 
 
 This documentation contains the following sections:
 
